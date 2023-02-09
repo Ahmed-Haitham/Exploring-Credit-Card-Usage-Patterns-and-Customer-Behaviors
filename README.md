@@ -1,3 +1,6 @@
+
+## **Exploring-Credit-Card-Usage-Patterns-and-Customer-Behaviors:** An Analysis using Clustering and Dimensionality Reduction Techniques
+
 **Project Description**
 
 The project aims to explore credit card usage patterns and customer behaviors by analyzing a credit card dataset. The insights generated from the analysis will help in understanding the spending habits and frequency of customers, their payment behaviors and the distribution of various transactions made using the credit card.
